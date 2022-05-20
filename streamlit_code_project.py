@@ -528,10 +528,4 @@ else:
         else:
             st.write('Hope you found this useful!')
 
-
-
-
-
-
-
 st.sidebar.write("Created by [sjabbar](www.linkedin.com/in/sara-jabbar)")
