@@ -2,3 +2,8 @@ plotly
 pandas
 pycountry
 pycountry_convert
+sklearn
+matplotlib
+yellowbrick
+seaborn
+plotly
