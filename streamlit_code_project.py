@@ -24,6 +24,10 @@ import plotly.io as pio
 pio.renderers.default = "notebook_connected"
 
 # ----------------- Start
+
+[theme]
+base = "light"
+
 # Set title
 st.title('Clustering Humanitarian Aid need levels based on UNDP MPI factors')
 
