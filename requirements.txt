@@ -7,3 +7,4 @@ matplotlib
 yellowbrick
 seaborn
 plotly
+openpyxl
